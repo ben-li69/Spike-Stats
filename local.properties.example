@@ -1,0 +1,8 @@
+# Copy this file to "local.properties" (already gitignored) and fill in your values.
+# Android Studio will add/overwrite sdk.dir automatically the first time you open the project.
+
+sdk.dir=/path/to/Android/sdk
+
+# Get a personal Development API key (free, expires every 24h) at:
+# https://developer.riotgames.com/
+RIOT_API_KEY=RGAPI-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
